@@ -1,0 +1,23 @@
+{
+  "name": "github_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francorisso/github_search.git"
+  },
+  "author": "Franco Risso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francorisso/github_search/issues"
+  },
+  "homepage": "https://github.com/francorisso/github_search#readme"
+}
